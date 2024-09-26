@@ -6,5 +6,6 @@ in-progress:
 - **ravespace**: ai edm dj set generator
 - **ztranslate**: gen-z slang translator
 - **url-shortener**: having a go at building api's that hash + encode :)
+- **budget-cli**: trying to manage my spending problem
 
 you can also find out more about me [here](https://www.averyxlin.com/)
