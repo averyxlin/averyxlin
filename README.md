@@ -6,5 +6,6 @@ in-progress:
 - **ravespace**: ai edm dj set generator
 - **ztranslate**: gen-z slang translator
 - **budget-cli**: trying to manage my spending problem
+- **PokemonXP**: unity-based pokemon game thats based on goal setting and to-do list making
 
 you can also find out more about me [here](https://www.averyxlin.com/)
