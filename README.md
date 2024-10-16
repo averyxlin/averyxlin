@@ -1,6 +1,6 @@
 ## hey 👋
 
-my name is avery, and i'm currently pursuing a degree in computer science + human-computer interaction specialization @ university of waterloo + seeking new grad 2025 swe roles. i love react, pokemon go, and building silly little projects.
+my name is avery, and i'm currently pursuing a degree in computer science + human-computer interaction specialization @ university of waterloo + seeking new grad 2025 swe roles. i love react, pokemon, and building silly little projects.
 
 in-progress:
 - **ravespace**: ai edm dj set generator
